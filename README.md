@@ -5,6 +5,6 @@ _To make productivity fun, the app features a custom economy. Users can assign d
 
 ## Team Roster & Roles
 * **Project Manager:** Mark Louie Reñon
-* **Systems Analyst:** Sonwell Real
-* **Lead Developer:** Alvin Tahaji
+* **Systems Analyst:** Alvin Tahaji
+* **Lead Developer:** Sonwell Real
 * **Quality Assurance Leader:** Dessiree Balingit
